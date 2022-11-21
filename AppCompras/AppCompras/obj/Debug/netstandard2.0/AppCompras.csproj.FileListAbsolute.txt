@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\bin\Debug\netstandard2.0\AppCompras.deps.json
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\bin\Debug\netstandard2.0\AppCompras.dll
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\bin\Debug\netstandard2.0\AppCompras.pdb
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\View\EditarProduto.xaml.g.cs
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\View\Listagem.xaml.g.cs
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\View\NovoProduto.xaml.g.cs
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.dll
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\refint\AppCompras.dll
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.pdb
+C:\Users\Usuario\Desktop\mobile\AppCompras\AppCompras\obj\Debug\netstandard2.0\ref\AppCompras.dll

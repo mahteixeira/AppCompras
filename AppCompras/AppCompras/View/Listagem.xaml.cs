@@ -36,7 +36,7 @@ namespace AppCompras.View
 
         protected override void OnAppearing()
         {
-            System.Threading.Tasks.Task.Run(() =>)
+            //System.Threading.Tasks.Task.Run(() =>)
         }
     }
 }
