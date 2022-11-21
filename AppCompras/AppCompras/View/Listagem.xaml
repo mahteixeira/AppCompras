@@ -11,9 +11,32 @@
     
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <SearchBar x:Name="txt_busca" Placeholder="Busque um produto..."/>
+
+            <RefreshView x:Name="ref_carregando" IsRefreshing="True">
+                <ListView x:Name="lst_produtos">
+                    <ListView.Header>
+                        <Grid RowDefinitions="Auto"
+                              ColumnDefinitions="*, Auto, Auto">
+                            <Label Grid.Row="0" Grid.Column="0" Text="Descrição"/>
+                            <Label Grid.Row="0" Grid.Column="1" Text="Quantidade"/>
+                            <Label Grid.Row="0" Grid.Column="2" Text="Preço"/>
+                        </Grid>
+                    </ListView.Header>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid RowDefinitions="Auto"
+                              ColumnDefinitions="*, Auto, Auto">
+                                    <Label Grid.Row="0" Grid.Column="0" Text="{Binding descricao}"/>
+                                    <Label Grid.Row="0" Grid.Column="1" Text="{Binding quantidade}"/>
+                                    <Label Grid.Row="0" Grid.Column="2" Text="{Binding preco}"/>
+                                </Grid>
+                            </ViewCell> 
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </RefreshView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
